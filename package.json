@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "alert": "^5.0.10",
+    "body-parser": "^1.19.0",
+    "connect-mongodb-session": "^3.1.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-session": "^1.17.2",
+    "fs": "^0.0.1-security",
+    "http-errors": "~1.6.3",
+    "mongodb": "^4.2.1",
+    "mongoose": "^6.0.14",
+    "morgan": "~1.9.1",
+    "window": "^4.2.7"
+  }
+}
